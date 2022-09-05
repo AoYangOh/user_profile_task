@@ -1,0 +1,9 @@
+com\say\userprofile\common\bean\TaskInfo.class
+com\say\userprofile\common\constants\ConstCodes.class
+com\say\userprofile\common\dao\TaskTagRuleDAO.class
+com\say\userprofile\common\bean\TagInfo.class
+com\say\userprofile\common\dao\TagInfoDAO.class
+com\say\userprofile\common\utils\MySQLUtil.class
+com\say\userprofile\common\dao\TaskInfoDAO.class
+com\say\userprofile\common\utils\MyPropertiesUtil.class
+com\say\userprofile\common\bean\TaskTagRule.class

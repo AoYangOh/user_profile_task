@@ -1,0 +1,10 @@
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\constants\ConstCodes.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\utils\MyClickhouseUtil.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\bean\TaskInfo.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\utils\MyPropertiesUtil.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\dao\TagInfoDAO.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\dao\TaskInfoDAO.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\bean\TagInfo.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\bean\TaskTagRule.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\dao\TaskTagRuleDAO.java
+D:\BigData\IDEA_Workspaces\Git\user_profile_task\task-common\src\main\java\com\say\userprofile\common\utils\MySQLUtil.java
